@@ -2,7 +2,7 @@
 Hello and welcome to my journey on learning to develop with lua.
 I have had used lua in the past through Roblox game development but always wandered how do I do it with the shell.
 In this repository I aim to explore interesting features and possibilities with lua.
-
+I will be reading the official documentation provided at [lua.org](https://www.lua.org/pil/1.html) for tutorials and language features.
 # Prerequisites
 As all development environments you require a few bits and pieces to get things going.
 1. Get yourself a text editor (not and IDE😈)

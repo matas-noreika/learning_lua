@@ -5,7 +5,7 @@ In this repository I aim to explore interesting features and possibilities with 
 I will be reading the official documentation provided at [lua.org](https://www.lua.org/pil/1.html) for tutorials and language features.
 # Prerequisites
 As all development environments you require a few bits and pieces to get things going.
-1. Get yourself a text editor (not and IDE😈)
+1. Get yourself a text editor (not an IDE😈)
 2. Using your package manager (assuming a linux/MacOS platform) install lua 
 ## MacOS
 `brew install lua`
